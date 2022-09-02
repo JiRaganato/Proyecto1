@@ -1,0 +1,24 @@
+/* Estilos del inicio */
+
+body{
+    background-color: seashell;
+}
+
+.imagen{
+    background-image: url("../img/arena.jpg");
+    text-align: center;
+    color: black;
+}
+
+/* Estilos del header inicio*/
+
+header h1{
+    text-align: center;
+    color: darkred;
+    text-transform: uppercase;
+}
+
+header nav ul li{
+    list-style: none;
+    background-color: crimson;
+}
